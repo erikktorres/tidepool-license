@@ -55,7 +55,7 @@ docpadConfig = {
       # if we have a document title, then we should use that and suffix the site's title onto it
       if @document.title
         "#{@document.title} | #{@site.title}"
-      # if our document does not have it's own title, then we should just use the site's title
+      # if our document does not have its own title, then we should just use the site's title
       else
         @site.title
 
@@ -79,7 +79,7 @@ docpadConfig = {
     pages: (database) ->
       database.findAllLive({pageOrder: $exists: true}, [pageOrder:1,title:1])
 
-    # This one, will fetch in all documents that will be outputted to the posts
+    # This one, will fetch in all documents that will be saved to the posts
     # directory
     posts: (database) ->
       database.findAllLive({relativeOutDirPath:'posts'},[date:-1])

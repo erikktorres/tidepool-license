@@ -5,8 +5,10 @@ title: 'The Tidepool License'
 
 ---
 
+### DRAFT
 
-[DRAFT - This draft is open for public review and comment. Please see the associated&nbsp;[draft license FAQ](http://tidepool.org/about/faq-license/). Please email your comments to [legal@tidepool.org](mailto:legal@tidepool.org) or comment on the [associated blog post](http://tidepool.org/2013917wheres-the-code-or-a-funny-thing-happened-while-on-the-way-to-an-open-source-license) published September 17, 2013. Even better, feel free to fork [our GitHub repository for this license document](#) and offer us an edited version.]
+[This draft is open for public review and comment. Please see the associated&nbsp;[draft license FAQ](http://tidepool.org/about/faq-license/). Please email your comments to [legal@tidepool.org](mailto:legal@tidepool.org) or comment on the [associated blog post](http://tidepool.org/2013917wheres-the-code-or-a-funny-thing-happened-while-on-the-way-to-an-open-source-license) published September 17, 2013. Even better, feel free to fork [our GitHub repository for this license document](https://github.com/tidepool-org/tidepool-license) and offer us an edited version as a pull request.]
+
 ### Tidepool Open Access to Health Data Software License v1
 
 This license governs the use of the software to which this license notice is applied (&ldquo;Software&rdquo;). You are not required to accept these license terms; however, nothing else grants you permission to modify or distribute the Software or its derivative works. The purpose of this license is to ensure that any use of this Software is conditioned upon making Health Data collected or processed by the Software Open to the Data Owner or any party authorized by the Data Owner, and this license should be interpreted in service of that purpose.
