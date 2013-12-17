@@ -27,17 +27,17 @@ docpadConfig = {
 
 
     getViewGH: ->
-      prefix = 'https://github.com/tidepool-org/tidepool-website'
+      prefix = 'https://github.com/tidepool-org/tidepool-license'
       action = 'blob/master/src/documents'
       path = @document.relativePath
       "#{prefix}/#{action}/#{path}"
     getProse: ->
-      prefix = 'http://prose.io/#tidepool-org/tidepool-website'
+      prefix = 'http://prose.io/#tidepool-org/tidepool-license'
       edit = 'edit/master/src/documents'
       path = @document.relativePath
       "#{prefix}/#{edit}/#{path}"
     getGithub: ->
-      prefix = 'https://github.com/tidepool-org/tidepool-website'
+      prefix = 'https://github.com/tidepool-org/tidepool-license'
       edit = 'edit/master/src/documents'
       path = @document.relativePath
       "#{prefix}/#{edit}/#{path}"
