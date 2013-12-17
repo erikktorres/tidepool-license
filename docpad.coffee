@@ -7,7 +7,7 @@ docpadConfig = {
   port: port
   templateData:
     site:
-      url: "http://tidepool-org.github.io/tidepool-website/"
+      url: "http://tidepool-org.github.io/tidepool-license/"
       title: "Web page for the Tidepool License."
       description: ""
       keywords: ""
