@@ -7,7 +7,7 @@ title: 'The Tidepool License FAQ'
 
 ### DRAFT
 
-> The [draft Tidepool Open Access to Health Data Software License v1](/index.html) is currently open for public review and comment. This draft FAQ accompanies the license draft. Please email your comments on either one to our license discussion mailing list [tidepool-license-discuss@googlegroups.com](mailto:tidepool-license-discuss@googlegroups.com) or comment on the [associated blog post](http://tidepool.org/2013/09/18/2013917wheres-the-code-or-a-funny-thing-happened-while-on-the-way-to-an-open-source-license/) published September 17, 2013. Even better, feel free to fork [our GitHub repository for this license document and FAQ](https://github.com/tidepool-org/tidepool-license) and offer us an edited version as a pull request.
+> The [draft Tidepool Open Access to Health Data Software License v1](index.html) is currently open for public review and comment. This draft FAQ accompanies the license draft. Please email your comments on either one to our license discussion mailing list [tidepool-license-discuss@googlegroups.com](mailto:tidepool-license-discuss@googlegroups.com) or comment on the [associated blog post](http://tidepool.org/2013/09/18/2013917wheres-the-code-or-a-funny-thing-happened-while-on-the-way-to-an-open-source-license/) published September 17, 2013. Even better, feel free to fork [our GitHub repository for this license document and FAQ](https://github.com/tidepool-org/tidepool-license) and offer us an edited version as a pull request.
 
 ### Developer
 
