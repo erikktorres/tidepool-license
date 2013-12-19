@@ -940,6 +940,7 @@ ul.sf-menu li li li.sfHover ul {
 }
 
 .entry-content p,
+.entry-content dl,
 .entry-content li {
 	font-family: 'gt_walsheim_light', Arial, "Helvetica Neue", Helvetica, sans-serif;;
 	font-size: 20px;
@@ -948,8 +949,20 @@ ul.sf-menu li li li.sfHover ul {
 	line-height: 1.5em;
 }
 
+.entry-content li {
+	margin-left: 16pt;
+}
+
+.entry-content dt {
+	font-size: larger;
+}
+
 .entry-content table {
 	margin-left: 1px;
+}
+
+.entry-content blockquote p {
+	font-size: 16px;
 }
 
 .entry-content embed {

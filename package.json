@@ -16,9 +16,9 @@
     "marked": "~0.2.10",
     "eco": "~1.1.0-rc-3",
     "docpad-plugin-ghpages": "~2.4.1",
-    "docpad": "~6.58.1",
+    "docpad": "~6.59.2",
     "docpad-plugin-text": "~2.3.2",
-    "docpad-plugin-marked": "~2.1.2"
+    "docpad-plugin-multimarkdown": "~2.0.0"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.5.4"
